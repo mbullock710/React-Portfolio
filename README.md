@@ -9,7 +9,7 @@
 
   ## Description
 
-  The objective of this assignment is to to create a portfolio of my coding work/experience using React.js. 
+  The objective of this assignment is to create a portfolio of my coding work/experience using React.js. 
 
   ## Installation
 
@@ -21,7 +21,7 @@
 
   ## Screenshot
 
- 
+ <img width="957" alt="reactport" src="https://github.com/mbullock710/React-Portfolio/assets/148500556/d499387d-4d4a-41e9-9dac-a13472b265c7">
 
   ## Questions
 
@@ -30,5 +30,3 @@
   mbullock710@gmail.com
 
   The URL of the deployed application: 
-
-  https://text-editor-wmkd.onrender.com
