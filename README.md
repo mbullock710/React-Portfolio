@@ -30,3 +30,5 @@
   mbullock710@gmail.com
 
   The URL of the deployed application: 
+
+  https://main--michael-bullock-portfolio.netlify.app/
